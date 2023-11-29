@@ -20,7 +20,7 @@ _Bootcamp: UPENN-VIRT-DATA-PT-06-2023-U-LOLC-MTTH Module 21 Challenge: Deep Lear
 > - IS_SUCCESSFUL—Was the money used effectively
 
 ### Analysis
-A full analysis may be found in <analysis.md>.
+A full analysis may be found in [analysis.md](analysis.md).
 The result of the exercise is a model (optimized) with a 0.7342 accuracy that can be used to help assess whether an applicant is a good candidate for receiving funding from the charity Alphabet Soup.
 
 ## About the Models
