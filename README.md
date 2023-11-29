@@ -27,7 +27,7 @@ The result of the exercise is a model (optimized) with a 0.7342 accuracy that ca
 ### Requirements
 Clone this repo: `git clone https://github.com/4a6166/deep-learning-challenge.git`
 
-The Jupyter Notebook file was run using Google Colab.
+All three Jupyter Notebook files were run using Google Colab.
 All output compiling, training, evaluation, and generation of outputs was done on the cloud platfrom.
 
 ### Output
